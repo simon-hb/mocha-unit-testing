@@ -1,5 +1,5 @@
 //  Uncomment if using Node
-// var chai = require('chai');
+var chai = require('chai');
 var assert = chai.assert;
 
 describe('Array', function() {
